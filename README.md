@@ -1,5 +1,5 @@
 # hello-world
-trying git
+trying out git
 
 What else can I say?
 
